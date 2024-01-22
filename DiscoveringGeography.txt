@@ -1,0 +1,79 @@
+Discovering Geography Notes
+
+Spatial 
+
+Cartography is the science if map making 
+
+Cartography has evolved from early humans making rudimentary maps utilizing electronic devices to make high-quality, precise maps
+
+Everywhere is unique
+
+place=unique location distinguished by particular characteristic 
+
+feature= waterpower on campus 
+
+Place or name=toponym 
+
+Fjord- a long, narrow inlet with steep sides or cliffs, created by a glacier
+
+Site- the physical characteristics of a place 
+
+Situation- describe a place in terms of its location relative to other places 
+
+Absolute location- never changes and uses geographic coordinates 
+
+Location— absolute, relative
+
+Formal/uniform region- universal/dominant characteristic 
+
+Functional/nodal region- core areas, spheres of influence
+
+Vernacular/perceptual region 
+
+
+
+
+Greenwich mean time (GMT) 
+
+Universal time coordinated (UTC)
+
+GPS= Global Positioning System 
+
+GIS= Geographical information systems(science)
+- specialized hardware and software designed to collect, store, analyze and display geographic data 
+
+Information layering 
+
+3 types of GIS data - points, lines, polygons
+
+Geographic profiling 
+- mining crime databases, least effort principle, jeopardy surface, serial crime investigations, privacy issues and racial profiling
+
+Contour Rules
+- never cross 
+- Close together = steep 
+- Far apart = flatter 
+
+
+
+
+Distance decay- the decline in activity as the distance between two places increases
+
+Barriers to interaction: 
+- Physical environment 
+- Cultural 
+
+Culture hearths 
+- a place from which an innovation originates 
+
+Diffusion and Innovation 
+- a process by which a concept, practice, or substance spreads from its point of origin to new territories
+
+Relocation Diffusions 
+Contagious Diffusion
+
+Sense of Place Studies 
+- looking at a region from the inside out 
+- Giving voice to local residents
+
+Rain follows the plow 
